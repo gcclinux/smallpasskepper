@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: wagemaker.co.uk.gui.LaunchGUI
+Class-Path: ant-1.6.5.jar javacsv.jar bcprov-jdk14-145.jar commons-loggi
+ ng-1.1.jar commons-validator-1.4.0.jar
+
